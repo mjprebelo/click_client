@@ -1,0 +1,35 @@
+.div_info{
+    margin: auto; 
+    width: 200px;
+    /*border: 3px solid #73AD21;*/
+}
+
+.scroll-content {
+    display: table !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.scroll {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.info_clicks {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;   
+    font-size: 50px;    
+    width: 180px;
+    height: 70px;
+}
+
+.click_btn {
+    width: 100px;
+    border-radius: 25px; 
+    -moz-border-radius: 25px; 
+    -webkit-border-radius: 25px;
+    font-size: 20px;
+}
