@@ -24,6 +24,8 @@ angular.module('starter', ['ionic'])
  
     // Define the URL for our server.
     var SERVER_URL = 'ws://localhost:7007';
+
+    //var SERVER_URL = 'ws://mjprebelo.ddns.net:7007';
     var ws;
     connect();
 
